@@ -1,4 +1,4 @@
-# Frontend Mentor - Single price grid component solution
+4# Frontend Mentor - Single price grid component solution
 
 This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -32,7 +32,7 @@ Mobile design
 ### Links
 
 - Solution URL: [View Demo](https://github.com/Dunniola/Single-price-component.git)
-- Live Site URL: [Github App]()
+- Live Site URL: [Github App](https://dunniola.github.io/Single-price-component/)
 
 ## My process
 
@@ -46,7 +46,7 @@ Mobile design
 
 ## Author
 
-- Website - [Dunniola]()
+- Website - [Dunniola](https://dunniola.github.io/Single-price-component/)
 - Frontend Mentor - [@Dunniola](https://www.frontendmentor.io/profile/Dunniola)
 - Twitter - [@Eduoladunni](https://www.twitter.com/Eduoladunni)
 
